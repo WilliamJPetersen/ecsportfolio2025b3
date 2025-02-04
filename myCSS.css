@@ -46,11 +46,12 @@ body {
 	text-align: center;
 }
 body {
-     font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif, Times New Roman;
+     font: 100%/1.4 Times, serif, Times New Roman;
      background-color: #FFFFFF;
      margin: 0;
      padding: 0;
      color: #000;
+	generic-font:  sans-serif;
 }
 
 a:link {
