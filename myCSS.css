@@ -58,7 +58,8 @@ a:link {
      color: #010FE6;
 }
 a:visited {
-     color: #702963;
+     color: #010FE6;
+	<-- other link visited color #702963 --!>
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
