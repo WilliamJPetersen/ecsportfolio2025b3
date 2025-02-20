@@ -72,3 +72,7 @@ a:hover, a:active, a:focus {
 .needmargin{
 	margin: 20px;
 }
+
+.nomrgn{
+	margin: 0px;
+}
